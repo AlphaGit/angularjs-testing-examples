@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html ng-app="MyApp">
+  <head>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.3/angular.min.js"></script>
+
+    <!-- Our application files -->
+    <script type="text/javascript" src="app/app.js"></script>
+    <script type="text/javascript" src="app/controllers/calculatorController.js"></script>
+  </head>
+  <body>
+    <div ng-controller="CalculatorController">
+      <input type="text" ng-model="operand1" placeholder="Value 1" />
+      <input type="text" ng-model="operand2" placeholder="Value 2" />
+
+      <input type="text" ng-model="result" readonly="readonly" />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-testing-examples",
+  "version": "0.0.1",
+  "description": "Unit testing and e2e testing examples for AngularJS directives, directives and services.",
+  "homepage": "https://github.com/AlphaGit/angularjs-testing-examples",
+  "bugs": {
+    "url": "https://github.com/AlphaGit/angularjs-testing-examples/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlphaGit/angularjs-testing-examples.git"
+  },
+  "dependencies": {
+    "gzippo": "0.2.0",
+    "express": "3.4.8"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

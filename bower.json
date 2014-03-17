@@ -1,0 +1,29 @@
+{
+  "name": "angularjs-testing-examples",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AlphaGit/angularjs-testing-examples",
+  "authors": [
+    "Alpha <alphagma@gmail.com>"
+  ],
+  "description": "Unit testing and e2e testing examples for AngularJS directives, directives and services.",
+  "main": "server.js",
+  "keywords": [
+    "unit",
+    "testing",
+    "testing",
+    "angularjs",
+    "angular",
+    "example",
+    "demo"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "1.2.14"
+  }
+}
